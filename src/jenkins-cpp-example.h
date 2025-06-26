@@ -27,7 +27,7 @@
  * jenkins-cpp-example is an example C++ project demonstrating Jenkins CI/CD integration, primarily by allowing explicit control over its exit status for testing purposes.
  *
  * @author Savelii Pototskii
- * @date 2025-06-25
+ * @date 2025-06-26
  * @copyright Copyright (C) 2025 Savelii Pototskii (savalione.com)
  * @copyright SPDX-License-Identifier: GPL-3.0-or-later
 */
